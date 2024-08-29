@@ -4,4 +4,5 @@ tee -a ~/.bashrc << END
 if [ -f ~/profile/.tool ]; then
     . ~/profile/.tool
 fi
-END```
+END
+```
